@@ -53,26 +53,27 @@ This project delves into the analysis of student results, extracting valuable in
 - Analyzed the correlation between study time allocation and academic performance.
 
 
+![4](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/d8c01fb7-29a6-41ce-b10d-62c582d9da55)
 
-![3](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/fe89c6e6-c018-444c-9431-22ce8f5acad6)
 
 
 **6. Sports Engagement Impact:**
 - Explored the relationship between total hours spent on playing sports and student education using visualizations.
 
 
-![4](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/d8c01fb7-29a6-41ce-b10d-62c582d9da55)
+![5](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/0b89da98-0ff9-43eb-bbda-90d07d0316a8)
 
 
 **7. Sibling Effect Analysis:**
 - Investigated whether having siblings affects students' academic performance and identified the impact based on the number of siblings.
 
+![6](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/6aeec7b0-7576-4fdc-8ef1-3aaf115dfaf6)
 
-![4](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/d8c01fb7-29a6-41ce-b10d-62c582d9da55)
 
 **8. Ethnic Group Division:**
 - Divided students into ethnic groups and examined their academic performance trends.
 
+![7](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/5cd7f649-b359-4c19-aefb-c6fa65efcb91)
 
 
 
@@ -82,13 +83,12 @@ This project delves into the analysis of student results, extracting valuable in
 
 
 
-![4](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/d8c01fb7-29a6-41ce-b10d-62c582d9da55)
 
 
-![5](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/0b89da98-0ff9-43eb-bbda-90d07d0316a8)
 
 
-![6](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/6aeec7b0-7576-4fdc-8ef1-3aaf115dfaf6)
+
+
 
 
 ![7](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/5cd7f649-b359-4c19-aefb-c6fa65efcb91)
