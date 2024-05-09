@@ -76,28 +76,10 @@ This project delves into the analysis of student results, extracting valuable in
 ![7](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/5cd7f649-b359-4c19-aefb-c6fa65efcb91)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![7](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/5cd7f649-b359-4c19-aefb-c6fa65efcb91)
-
+**8. Ethnic Group Distribution:**
+-Finding count of students who belong to different ethnic group 
 
 ![8](https://github.com/har-shu/STUDENT-RESULT-ANALYSIS/assets/71369996/6601d834-a24f-4315-a564-94e22f7be8bd)
-
-
-
 
 
 **Conclusion:**
